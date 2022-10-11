@@ -15,7 +15,7 @@
             <li><a href="opslag.html">uitleg werking telefoon</a></li>
         </ul>
               <img src="homepage.jpg">
-                
+              <!--hier geven we uitleg over de bitmap-->  
             <h2>Bitmap</h2>
              <p>Bitmap betekent letterlijk: een plaatje dat uit bits is opgebouwd.
                  Een van de manieren waarop een grafische afbeelding op een schijf bewaard kan worden,
@@ -26,7 +26,8 @@
                       Een zwartwit-plaatje heeft aan één bit per pixel genoeg, met 16 miljoen kleuren zijn er 24 bits per pixel nodig. Het aantal bits per pixel wordt ook wel kleurdiepte genoemd.
                       Een bitmap is daarmee een afbeelding die bestaat uit een rechthoekig raster van vierkantjes.
                        Elke pixel bevat informatie die beschrijft of de pixel zwart of wit is, of dat de pixel een kleurwaarde heeft.</p> 
-               
+              
+                       <!--hier geven we uitleg over de vectoren-->
             <h2>Vectoren</h2>
             <p>Een vector wordt in meetkunde en natuurkunde gebruikt om natuurkundige grootheid 
                 dat zowel grootte als richting heeft te vertegenwoordigen.</p>
