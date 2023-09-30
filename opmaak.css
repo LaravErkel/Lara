@@ -11,7 +11,7 @@
   position: absolute;
   background-color: #cd97b7;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(38, 53, 150, 0.2);
   z-index: 1;
 }
 
@@ -23,12 +23,12 @@
 }
 
 .dropdown-content a:hover 
-{background-color: #f1f1f1}
+{background-color: #ce359e}
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #815280;
+  background-color: #ae65ad;
 }
