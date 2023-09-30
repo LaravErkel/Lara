@@ -18,7 +18,9 @@ ul {
     background-color: rgb(243, 178, 218);
     color: rgb(204, 36, 128);
   
-      .dropbtn {
+     
+    
+    .dropbtn {
   background-color: #e155a4;
   color: white;
   padding: 16px;
@@ -48,7 +50,8 @@ ul {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover 
+{background-color: #f1f1f1}
 
 .dropdown:hover .dropdown-content {
   display: block;
