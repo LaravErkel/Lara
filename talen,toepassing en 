@@ -1,0 +1,48 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html-element-->
+    <head>
+        <title>Informatica</title>
+        <link rel="stylesheet" type="text/css" href="opmaak.css">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        
+        <!--het onderwerp van de pagina-->
+        <h1>dropdown</h1>
+
+        <p>beweeg de muis over de button om het dropdown menu te openen</p>
+            <div class="dropdown">
+                <button class="dropbtn">dropdown </button>
+                <div class="dropdown-content">
+                    <a href="index.html">homepage</a>
+                    <a href="kleurmodellen.html">kleurmodellen</a>
+                    <a href="binairstelsel.html"> binair stelsel</a>
+                    <a href="Bitmap en vectoren.html"> Bitmap en Vectoren</a>
+            <a href="moederbord.html">uitgebreide uitleg moederbord</a>
+            <a href="3 lagen model.html">3 lagen model</a>
+            </div>
+        </div>
+
+    </body>
+
+ <h2>Talen,toepassingsprogamma's en databases</h2>
+ 
+ <h3>Talen</h3>
+ <p>programmeertalen en compilers vormen de basis van softwareontwikkeling en 
+    zijn cruciaal voor het bouwen van allerlei soorten software,
+     van mobiele apps tot besturingssystemen tot webtoepassingen. 
+     Het kiezen van de juiste programmeertaal en het begrijpen van de werking van compilers zijn 
+     belangrijke vaardigheden voor programmeurs en ontwikkelaars.</p>
+
+     <h3>toepassingsprogamma</h3>
+     <p>Toepassingsprogramma's, ook wel apps genoemd, zijn softwaretoepassingen ontworpen voor specifieke taken of doeleinden. 
+        Ze omvatten tekstverwerkers, spreadsheets, webbrowsers, fotobewerkingssoftware, videogames en meer.
+         Deze programma's maken gebruik van de functionaliteit van een besturingssysteem om gebruikersproductiviteit 
+         te verbeteren, entertainment te bieden en specifieke taken uit te voeren op computers en mobiele apparaten.
+          Het toepassingprogamma zit in de toepassingslaag van je apparaat. </p>
+
+        <h3>databases</h3>
+        <p>Databases zijn gestructureerde verzamelingen van gegevens die efficiënte opslag, 
+            beheer en ophalen van informatie mogelijk maken.  Ze worden gebruikt in bedrijven, 
+            websites en softwaretoepassingen om gegevens zoals klantinformatie, inventaris, 
+            financiën en meer te organiseren, op te slaan en te analyseren voor besluitvorming en operationele processen.</p>
